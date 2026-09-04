@@ -1,5 +1,12 @@
 # Demeter
 
+> [!WARNING]
+> ## Archived
+> This experimental distributed-configuration server is no longer maintained
+> and will receive no further releases. It remains available for historical
+> reference only. Migrate to a supported configuration and service-discovery
+> solution appropriate to your deployment platform.
+
 UNDER DEVELOPMENT!
 
 ## Introduction
